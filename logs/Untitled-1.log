@@ -1,0 +1,33 @@
+2023-09-24 16:42:14,218.Untitled-1.INFO ==================================================
+2023-09-24 16:42:14,218.Untitled-1.INFO Today is 2023-09-24 at 04:42 PM
+2023-09-24 16:42:14,218.Untitled-1.INFO Running on: nt Windows 10
+2023-09-24 16:42:14,218.Untitled-1.INFO Python version:  3.11.5
+2023-09-24 16:42:14,218.Untitled-1.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
+2023-09-24 16:42:14,218.Untitled-1.INFO Working dir: C:\Users\bakar\44-671\.venv\streaming-05-smart-smoker
+2023-09-24 16:42:14,218.Untitled-1.INFO ==================================================
+2023-09-24 16:42:22,578.Untitled-1.INFO Seeing if you want to monitor RabbitMQ queues
+2023-09-24 16:42:22,708.Untitled-1.INFO Skipping header row
+2023-09-24 16:42:22,709.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:15', '84.2') to 01-smoker
+2023-09-24 16:42:22,709.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:15', '') to 02-food-A
+2023-09-24 16:42:22,710.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:15', '') to 02-food-B
+2023-09-24 16:42:52,711.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:20', '84.2') to 01-smoker
+2023-09-24 16:42:52,713.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:20', '') to 02-food-A
+2023-09-24 16:42:52,714.Untitled-1.INFO  [x] Sent ('05/22/21 12:20:20', '') to 02-food-B
+2023-09-24 16:43:22,715.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:10', '87.6') to 01-smoker
+2023-09-24 16:43:22,715.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:10', '') to 02-food-A
+2023-09-24 16:43:22,715.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:10', '') to 02-food-B
+2023-09-24 16:43:52,725.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:15', '87.6') to 01-smoker
+2023-09-24 16:43:52,725.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:15', '') to 02-food-A
+2023-09-24 16:43:52,725.Untitled-1.INFO  [x] Sent ('05/22/21 12:21:15', '') to 02-food-B
+2023-09-24 16:44:22,731.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:10', '86.3') to 01-smoker
+2023-09-24 16:44:22,731.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:10', '') to 02-food-A
+2023-09-24 16:44:22,731.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:10', '') to 02-food-B
+2023-09-24 16:44:52,742.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:15', '86.3') to 01-smoker
+2023-09-24 16:44:52,745.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:15', '') to 02-food-A
+2023-09-24 16:44:52,747.Untitled-1.INFO  [x] Sent ('05/22/21 12:22:15', '') to 02-food-B
+2023-09-24 16:45:22,751.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:10', '92.0') to 01-smoker
+2023-09-24 16:45:22,751.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:10', '') to 02-food-A
+2023-09-24 16:45:22,751.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:10', '') to 02-food-B
+2023-09-24 16:45:52,761.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:15', '92.0') to 01-smoker
+2023-09-24 16:45:52,764.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:15', '') to 02-food-A
+2023-09-24 16:45:52,766.Untitled-1.INFO  [x] Sent ('05/22/21 12:23:15', '') to 02-food-B
