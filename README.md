@@ -27,19 +27,20 @@ Change show_offer to True in order to open the admin panel. When show_offer is f
 1. Run bbq_producer.py 
 
 
-
-
-
 ## Reference
 
 - [RabbitMQ Tutorial - Work Queues](https://www.rabbitmq.com/tutorials/tutorial-two-python.html)
 
 
-## Screenshot
+## Screenshots
 
-See a running example with at least 3 concurrent process windows here:
+See a running example of the messages sent to queues:
 
 ![Alt text](https://github.com/bkargel/streaming-05-smart-smoker/blob/main/Message_to_queues.png?raw=true "Sending to 3 queues")
+
+See the RabbitMQ queue admin page to verify messages going to queues:
+
+![Alt text](https://github.com/bkargel/streaming-05-smart-smoker/blob/main/queue_admin.png?raw=true "Verify queues")
 
 ## NOTES
 
