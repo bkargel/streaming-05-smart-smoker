@@ -39,7 +39,7 @@ Change show_offer to True in order to open the admin panel. When show_offer is f
 
 See a running example with at least 3 concurrent process windows here:
 
-![Alt text](https://github.com/bkargel/streaming-04-multiple-consumers/blob/main/three_terminals.png?raw=true "Running on three terminals")
+![Alt text](https://github.com/bkargel/streaming-05-smart-smoker/blob/main/Message_to_queues.png?raw=true "Sending to 3 queues")
 
 ## NOTES
 
