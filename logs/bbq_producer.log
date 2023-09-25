@@ -1,11 +1,38 @@
-2023-09-24 16:54:41,120.bbq_producer.INFO ==================================================
-2023-09-24 16:54:41,120.bbq_producer.INFO Today is 2023-09-24 at 04:54 PM
-2023-09-24 16:54:41,120.bbq_producer.INFO Running on: nt Windows 10
-2023-09-24 16:54:41,120.bbq_producer.INFO Python version:  3.11.5
-2023-09-24 16:54:41,120.bbq_producer.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0
-2023-09-24 16:54:41,120.bbq_producer.INFO Working dir: C:\Users\bakar\44-671\.venv\streaming-05-smart-smoker
-2023-09-24 16:54:41,120.bbq_producer.INFO ==================================================
-2023-09-24 16:54:41,153.bbq_producer.INFO Skipping header row
-2023-09-24 16:54:41,154.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '84.2') to 01-smoker
-2023-09-24 16:54:41,155.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '') to 02-food-A
-2023-09-24 16:54:41,156.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '') to 03-food-B
+2023-09-25 10:23:52,370.bbq_producer.INFO ==================================================
+2023-09-25 10:23:52,370.bbq_producer.INFO Today is 2023-09-25 at 10:23 AM
+2023-09-25 10:23:52,370.bbq_producer.INFO Running on: nt Windows 10
+2023-09-25 10:23:52,370.bbq_producer.INFO Python version:  3.11.4
+2023-09-25 10:23:52,370.bbq_producer.INFO Python path: C:\Users\bakar\anaconda3
+2023-09-25 10:23:52,370.bbq_producer.INFO Working dir: C:\Users\bakar\44-671\.venv\streaming-05-smart-smoker
+2023-09-25 10:23:52,370.bbq_producer.INFO ==================================================
+2023-09-25 10:23:52,401.bbq_producer.INFO Skipping header row
+2023-09-25 10:23:52,401.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '84.2') to 01-smoker
+2023-09-25 10:23:52,401.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '') to 02-food-A
+2023-09-25 10:23:52,401.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:15', '') to 03-food-B
+2023-09-25 10:24:22,417.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:20', '84.2') to 01-smoker
+2023-09-25 10:24:22,422.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:20', '') to 02-food-A
+2023-09-25 10:24:22,422.bbq_producer.INFO  [x] Sent ('05/22/21 12:20:20', '') to 03-food-B
+2023-09-25 10:24:52,425.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:10', '87.6') to 01-smoker
+2023-09-25 10:24:52,425.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:10', '') to 02-food-A
+2023-09-25 10:24:52,425.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:10', '') to 03-food-B
+2023-09-25 10:25:22,431.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:15', '87.6') to 01-smoker
+2023-09-25 10:25:22,431.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:15', '') to 02-food-A
+2023-09-25 10:25:22,431.bbq_producer.INFO  [x] Sent ('05/22/21 12:21:15', '') to 03-food-B
+2023-09-25 10:25:52,441.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:10', '86.3') to 01-smoker
+2023-09-25 10:25:52,441.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:10', '') to 02-food-A
+2023-09-25 10:25:52,441.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:10', '') to 03-food-B
+2023-09-25 10:26:22,444.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:15', '86.3') to 01-smoker
+2023-09-25 10:26:22,444.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:15', '') to 02-food-A
+2023-09-25 10:26:22,444.bbq_producer.INFO  [x] Sent ('05/22/21 12:22:15', '') to 03-food-B
+2023-09-25 10:26:52,448.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:10', '92.0') to 01-smoker
+2023-09-25 10:26:52,448.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:10', '') to 02-food-A
+2023-09-25 10:26:52,448.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:10', '') to 03-food-B
+2023-09-25 10:27:22,455.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:15', '92.0') to 01-smoker
+2023-09-25 10:27:22,455.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:15', '') to 02-food-A
+2023-09-25 10:27:22,455.bbq_producer.INFO  [x] Sent ('05/22/21 12:23:15', '') to 03-food-B
+2023-09-25 10:27:52,463.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:10', '96.8') to 01-smoker
+2023-09-25 10:27:52,463.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:10', '') to 02-food-A
+2023-09-25 10:27:52,463.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:10', '') to 03-food-B
+2023-09-25 10:28:22,471.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:15', '96.8') to 01-smoker
+2023-09-25 10:28:22,471.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:15', '') to 02-food-A
+2023-09-25 10:28:22,471.bbq_producer.INFO  [x] Sent ('05/22/21 12:24:15', '') to 03-food-B
